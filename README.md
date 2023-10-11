@@ -1,7 +1,23 @@
 # App Name **grabadora_app**
 ## Description
+## Description
 
-Brief description of what the app does.
+🎙️ **AudioWave Recorder App** is not just another voice recorder—it's a full-fledged audio capturing and management suite! 🌟 Record your voice memos with crystal-clear quality, visualize them with real-time audio waveforms, and manage your audio clips like a pro. 🎛️
+
+### Features:
+
+- **High-Quality Recording**: Capture every nuance of sound.
+- **Real-Time Audio Waveforms**: See your voice in action.
+- **Save & Manage**: Keep your recordings safe in your device's memory.
+- **Delete with Ease**: Remove unwanted clips with a single tap.
+- **Pause & Resume**: Control your recording sessions at your convenience.
+- **Audio List**: Browse through your audio files complete with duration info.
+
+## Prerequisites
+
+- Flutter SDK
+- Android Studio or Visual Studio Code
+- An Android or iOS device for running the app (optional)
 
 ## Prerequisites
 
