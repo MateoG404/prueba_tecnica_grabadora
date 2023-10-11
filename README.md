@@ -12,6 +12,10 @@
 - **Delete with Ease**: Remove unwanted clips with a single tap.
 - **Pause & Resume**: Control your recording sessions at your convenience.
 - **Audio List**: Browse through your audio files complete with duration info.
+## **Download app**
+
+You can download the APK for the app with the following link
+[Download App](https://drive.google.com/file/d/1Eiykhg7jC8KajLeIiAEkgGlxjdVIEvXl/view?usp=sharing)
 
 [Video demo](https://github.com/MateoG404/prueba_tecnica_grabadora/assets/72769799/0dd38891-e4c7-4049-9c15-c868f8097217)
 
