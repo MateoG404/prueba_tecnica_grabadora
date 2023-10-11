@@ -1,4 +1,5 @@
 # App Name **grabadora_app**
+
 ## Description
 
 🎙️ **AudioWave Recorder App** is not just another voice recorder—it's a full-fledged audio capturing and management suite! 🌟 Record your voice memos with crystal-clear quality, visualize them with real-time audio waveforms, and manage your audio clips like a pro. 🎛️
@@ -11,6 +12,8 @@
 - **Delete with Ease**: Remove unwanted clips with a single tap.
 - **Pause & Resume**: Control your recording sessions at your convenience.
 - **Audio List**: Browse through your audio files complete with duration info.
+
+[Video demo](https://github.com/MateoG404/prueba_tecnica_grabadora/assets/72769799/0dd38891-e4c7-4049-9c15-c868f8097217)
 
 ## Prerequisites
 
